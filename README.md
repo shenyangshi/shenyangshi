@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-### - 🔭 I’m currently working on the [XENONnT dark matter experiment](https://github.com/XENONnT).
-### - 🌱 I’m currently learning C programming language and dark matter particle physics.
+### - 🔭 I'm working on the [XENONnT dark matter experiment](https://github.com/XENONnT).
+### - 🌱 I’m learning C programming.
 ### - ⚡ My Google Scholar [profile](https://scholar.google.com/citations?user=NV8YSoYAAAAJ&hl=en)
 
 <!--
