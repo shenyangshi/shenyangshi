@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-### - 🔭 I'm working on the [XENONnT dark matter experiment](https://github.com/XENONnT).
-### - 🌱 I’m learning C programming.
-### - ⚡ My Google Scholar [profile](https://scholar.google.com/citations?user=NV8YSoYAAAAJ&hl=en)
+### - 🔭 I'm a Ph.D. student at Columbia University working on [XENONnT dark matter experiment](https://github.com/XENONnT).
+### - 🌱 My personal [blog](https://www.shenyang-shi.com/).
 
 <!--
 **shenyangshi/shenyangshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
